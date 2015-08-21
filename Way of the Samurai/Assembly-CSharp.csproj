@@ -46,12 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scenes\Main Menu\Main Menu Script.cs" />
-     <Compile Include="Assets\Scripts\AiPatrol.cs" />
      <Compile Include="Assets\Scripts\BGM.cs" />
      <Compile Include="Assets\Scripts\CitizenRun.cs" />
      <Compile Include="Assets\Scripts\Cloud.cs" />
      <Compile Include="Assets\Scripts\EnemyLogic.cs" />
+     <Compile Include="Assets\Scripts\Main Menu Script.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\PatrolLogic.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
