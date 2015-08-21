@@ -1,0 +1,15 @@
+Content:
+Map Navigation
+
+Asset:
+sfx for character
+way of distinguishing talking NPC and non-talking
+animated title page
+better buttons
+button sfx
+
+movements:
+Jump
+Combo slash
+limited Z axis movement
+move up or down street in Z
