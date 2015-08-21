@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 31d624ea519fd8448a96abc3a65b53d6
+timeCreated: 1434631987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Citizen6_0
+    21300002: Citizen6_1
+    21300004: Citizen6_2
+    21300006: Citizen6_3
+    21300008: Citizen6_4
+    21300010: Citizen6_5
+    21300012: Citizen6_6
+    21300014: Citizen6_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Citizen6_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 79
+        width: 221
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Citizen6_1
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 69
+        width: 215
+        height: 528
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Citizen6_2
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 82
+        width: 230
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Citizen6_3
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 85
+        width: 162
+        height: 511
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Citizen6_4
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 89
+        width: 292
+        height: 500
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Citizen6_5
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 78
+        width: 189
+        height: 521
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Citizen6_6
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 92
+        width: 196
+        height: 513
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Citizen6_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 74
+        width: 237
+        height: 527
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
