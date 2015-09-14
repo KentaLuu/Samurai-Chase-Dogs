@@ -14,15 +14,15 @@ public class BGM : MonoBehaviour {
 		
 	}
 
-	void OnCollisionEnter2D(Collider2D other){
+	/*void OnCollisionEnter2D(Collider2D other){
 		interact = true;
-	}
+	}*/
 	
 	
 	void Update () 
 	{
 		
-		if (interact = true)
+		if (interact == true)
 		{
 			
 			if (_AudioSource1.isPlaying)

@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: b39e1ee8b614360468a61edf73e4c14e
+timeCreated: 1441324900
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpearMan1_0
+    21300002: SpearMan1_1
+    21300004: SpearMan1_2
+    21300006: SpearMan1_3
+    21300008: SpearMan1_4
+    21300010: SpearMan1_5
+    21300012: SpearMan1_6
+    21300014: SpearMan1_7
+    21300016: SpearMan1_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpearMan1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 450
+        height: 320
+      alignment: 9
+      pivot: {x: .311230361, y: .612760663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .346417516, y: .584552109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_2
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .343149722, y: .561065435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_3
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .320275873, y: .575157404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_4
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .372559667, y: .575157523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_5
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .346417516, y: .579854786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_6
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .359488577, y: .570460081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_7
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .369291365, y: .546973407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpearMan1_8
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 0
+        width: 460
+        height: 320
+      alignment: 9
+      pivot: {x: .339881957, y: .565762877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

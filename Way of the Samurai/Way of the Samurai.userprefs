@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BGM.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
     <Files>
-      <File FileName="Assets\Scripts\BGM.cs" Line="29" Column="5" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="77" Column="35" />
+      <File FileName="Assets\Scripts\PlayerLogic.cs" Line="31" Column="4" />
+      <File FileName="E:\TFS Projects\Workspace\IceCubeGame\Icecube Game\Assets\Scripts\Characters\Player.cs" Line="56" Column="24" />
+      <File FileName="E:\TFS Projects\Workspace\IceCubeGame\Icecube Game\Assets\Scripts\Characters\CollisionController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

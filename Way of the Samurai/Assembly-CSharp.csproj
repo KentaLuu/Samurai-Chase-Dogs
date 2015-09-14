@@ -55,8 +55,6 @@
      <Compile Include="Assets\Scripts\PatrolLogic.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerLogic.cs" />
-     <Compile Include="Assets\Scripts\Slash.cs" />
-     <Compile Include="Assets\Scripts\Stab.cs" />
      <Compile Include="Assets\Scripts\SunCloudS.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

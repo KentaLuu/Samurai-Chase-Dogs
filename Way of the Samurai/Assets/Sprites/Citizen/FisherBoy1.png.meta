@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: a101aa287127c5644961fb21fb6c9538
+timeCreated: 1440312765
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FisherBoy_0
+    21300002: FisherBoy_1
+    21300004: FisherBoy_2
+    21300006: FisherBoy_3
+    21300008: FisherBoy_4
+    21300010: FisherBoy_5
+    21300012: FisherBoy_6
+    21300014: FisherBoy_7
+    21300016: FisherBoy_8
+    21300018: FisherBoy_9
+    21300020: FisherBoy_10
+    21300022: FisherBoy_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FisherBoy_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_2
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_3
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_4
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_5
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_6
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_7
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_8
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_9
+      rect:
+        serializedVersion: 2
+        x: 6092
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_10
+      rect:
+        serializedVersion: 2
+        x: 6740
+        y: 21
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FisherBoy_11
+      rect:
+        serializedVersion: 2
+        x: 7394
+        y: 20
+        width: 160
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
